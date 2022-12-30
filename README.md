@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **various projects**
 
-- 🌐 Website URL: https://jiviteshoo7.netlify.app/
+- 🌐 Website URL : https://jiviteshoo7.netlify.app/
 
 - 🌱 I’m currently learning **Frameworks, AI**
 
