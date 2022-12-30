@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@lord__edge" target="blank"><img src="https://img.shields.io/twitter/follow/lord__edge?logo=twitter&style=for-the-badge" alt="@lord__edge" /></a> </p>
 
-- 🔭 I’m currently working on **various projects**
+- 🔭 I’m currently working on **various projects** see my work here: https://jiviteshoo7.netlify.app/
 
 - 🌱 I’m currently learning **Frameworks, AI**
 
