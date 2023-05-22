@@ -9,13 +9,11 @@
 
 - 🌐 Website URL : https://jiviteshoo7.netlify.app/
 
-- 🌱 I’m currently learning **Frameworks, AI**
+- 🌱 I'm currently learning **Frameworks, AI**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I'm Looking for collaborate on **open source projects**
 
-- 📫 How to reach me **jiviteshkumar.jk007@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+- 📫 For contact : **jiviteshkumar.jk007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
